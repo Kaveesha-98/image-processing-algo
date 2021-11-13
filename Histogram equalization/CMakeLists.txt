@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( imageBrightness.cpp )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( imageBrightness imageBrightness.cpp )
+target_link_libraries( imageBrightness ${OpenCV_LIBS} )

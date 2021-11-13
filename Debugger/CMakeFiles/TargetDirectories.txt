@@ -1,0 +1,3 @@
+/media/kaveesha/New Volume/University/Academic/Semesters/Semester 4/Opencv/Tutorials/Debugger/CMakeFiles/rebuild_cache.dir
+/media/kaveesha/New Volume/University/Academic/Semesters/Semester 4/Opencv/Tutorials/Debugger/CMakeFiles/edit_cache.dir
+/media/kaveesha/New Volume/University/Academic/Semesters/Semester 4/Opencv/Tutorials/Debugger/CMakeFiles/imageBrightness.dir

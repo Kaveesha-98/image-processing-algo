@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 2.8)
+project( convolutionBlur.cpp )
+SET("OpenCV_DIR" "/media/kaveesha/New Volume/University/Academic/Semesters/Semester 4/Opencv/build")
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( convolutionBlur convolutionBlur.cpp )
+target_link_libraries( convolutionBlur ${OpenCV_LIBS} )
+SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -pthread")

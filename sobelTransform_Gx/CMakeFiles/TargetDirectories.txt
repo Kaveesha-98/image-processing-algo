@@ -1,0 +1,3 @@
+/media/kaveesha/New Volume/University/Academic/Semesters/Semester 4/Opencv/Tutorials/sobelTransform_Gx/CMakeFiles/rebuild_cache.dir
+/media/kaveesha/New Volume/University/Academic/Semesters/Semester 4/Opencv/Tutorials/sobelTransform_Gx/CMakeFiles/edit_cache.dir
+/media/kaveesha/New Volume/University/Academic/Semesters/Semester 4/Opencv/Tutorials/sobelTransform_Gx/CMakeFiles/sobelTransform.dir

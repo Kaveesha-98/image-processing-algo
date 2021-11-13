@@ -1,0 +1,3 @@
+/media/kaveesha/New Volume/University/Academic/Semesters/Semester 4/Opencv/Tutorials/multithreading historgram/CMakeFiles/rebuild_cache.dir
+/media/kaveesha/New Volume/University/Academic/Semesters/Semester 4/Opencv/Tutorials/multithreading historgram/CMakeFiles/edit_cache.dir
+/media/kaveesha/New Volume/University/Academic/Semesters/Semester 4/Opencv/Tutorials/multithreading historgram/CMakeFiles/histogram.dir

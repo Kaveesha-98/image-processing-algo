@@ -1,0 +1,5 @@
+	convolution(multithread)	normal_iteration
+7x7		0.747s				2.530s
+11x11		0.990s				6.578s
+15x15		1.179s				12.629s
+21x21		1.546s				25.067s
